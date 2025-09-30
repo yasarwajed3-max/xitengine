@@ -22,5 +22,11 @@
         "key": "imaYsEcOlF",
         "expirydate": "30-12-2033",
         "Allowoffline": false
+    }،
+{
+        "device_id": "0b6237be20058f0e",
+        "key": "ofbar01",
+        "expirydate": "30-12-2033",
+        "Allowoffline": false
     }
 ]
