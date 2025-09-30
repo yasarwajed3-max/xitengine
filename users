@@ -11,10 +11,16 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "d3f697b62245ca89",
         "key": "ofbar",
         "expirydate": "15-06-2030",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d5c37c15d2cf650a",
+        "key": "imaYsEcOlF",
+        "expirydate": "30-12-2033",
         "Allowoffline": false
     }
 ]
